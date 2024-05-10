@@ -575,6 +575,7 @@ def main ( argv ):
     functionGender = 0
     functionInputYear = 0
 
+    #User Menu
     while(userInput != "8"):
         print ("\nHere is the menu \n")
         print ("1. Most popular name in a year?")
